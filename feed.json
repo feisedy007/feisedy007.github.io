@@ -14,15 +14,15 @@
             "id": "https://feisedy007.github.io/test.html",
             "url": "https://feisedy007.github.io/test.html",
             "title": "Test",
-            "summary": "FSD B2409",
-            "content_html": "<p><a href=\"https://www.amazon.de/\" target=\"_blank\" rel=\"noopener noreferrer\">FSD B2409</a></p>",
+            "summary": "FSD B2409 doc",
+            "content_html": "<p><a href=\"https://www.amazon.de/\" target=\"_blank\" rel=\"noopener noreferrer\">FSD B2409</a></p>\n<p><a href=\"https://feisedy007.github.io/EU declaration of conformity-en.pdf\">doc</a></p>",
             "author": {
                 "name": "feisedy"
             },
             "tags": [
             ],
             "date_published": "2024-08-06T16:43:01+08:00",
-            "date_modified": "2024-08-06T16:43:01+08:00"
+            "date_modified": "2024-08-06T16:47:08+08:00"
         }
     ]
 }
