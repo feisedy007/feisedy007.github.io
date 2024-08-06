@@ -3,10 +3,30 @@
     <title>feisedy</title>
     <link href="https://feisedy007.github.io/feed.xml" rel="self" />
     <link href="https://feisedy007.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-08-06T16:43:01+08:00</updated>
     <author>
         <name>feisedy</name>
     </author>
     <id>https://feisedy007.github.io</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>feisedy</name>
+        </author>
+        <link href="https://feisedy007.github.io/test.html"/>
+        <id>https://feisedy007.github.io/test.html</id>
+
+        <updated>2024-08-06T16:43:01+08:00</updated>
+            <summary>
+                <![CDATA[
+                    FSD B2409
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.amazon.de/" target="_blank" rel="noopener noreferrer">FSD B2409</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
